@@ -1,5 +1,5 @@
 /*
- * Project: Corner Grocer � Item Frequency Program (Pointer Version)
+ * Project: Corner Grocer 
  * Author:  Jarod Jecas
  * Date:    10/14/2025
  */
