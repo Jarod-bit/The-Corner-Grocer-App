@@ -1,7 +1,7 @@
 /*
- * Project: Corner Grocer – Item Frequency Program (Pointer Version)
+ * Project: Corner Grocer ï¿½ Item Frequency Program (Pointer Version)
  * Author:  Jarod Jecas
- * Date:    10/15/2025
+ * Date:    10/14/2025
  */
 
 #include <iostream>
@@ -132,7 +132,7 @@ int GetCount(Item* arr, int size, const string& query) {
     return (found == nullptr) ? 0 : found->count;
 }
 
-// Main program – menu-driven interface
+// Main program ï¿½ menu-driven interface
 int main() {
     const string inputFile = "CS210_Project_Three_Input_File.txt";
     vector<Item> tempData;
