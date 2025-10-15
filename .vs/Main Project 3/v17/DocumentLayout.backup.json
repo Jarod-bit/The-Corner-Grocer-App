@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|solutionrelative:Corner Grocer App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Corner Grocer App.cpp",
+              "DocumentMoniker": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp",
+              "RelativeDocumentMoniker": "Corner Grocer App.cpp",
+              "ToolTip": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp",
+              "RelativeToolTip": "Corner Grocer App.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T01:24:39.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
