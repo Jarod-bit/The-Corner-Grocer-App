@@ -91,7 +91,7 @@ static void write_backup(const vector<ItemRec>& list) {
     fout.close();
 }
 
-/* Makes heap array (Pointer use #1, #2) */
+/* Makes heap array  */
 static ItemRec* make_array(const vector<ItemRec>& v, int& count) {
     count = static_cast<int>(v.size());
     if (count == 0) return nullptr;
@@ -101,7 +101,7 @@ static ItemRec* make_array(const vector<ItemRec>& v, int& count) {
     return arr;
 }
 
-/* Finds item by key (Pointer use #3) */
+/* Finds item by key  */
 static ItemRec* find_item(ItemRec* arr, int n, const string& key) {
     for (int i = 0; i < n; ++i) {
         if (arr[i].Key() == key) return &arr[i];
@@ -124,7 +124,7 @@ static void show_hist(ItemRec* arr, int n) {
     }
 }
 
-/* Gets count for a specific item (Pointer use #5) */
+/* Gets count for a specific item  */
 static int get_count(ItemRec* arr, int n, const string& name) {
     string key = to_lower(trim(name));
     ItemRec* found = find_item(arr, n, key);
