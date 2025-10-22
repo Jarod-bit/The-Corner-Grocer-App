@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|solutionrelative:Corner Grocer App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|C:\\Users\\jarod\\source\\repos\\Main Project 3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|solutionrelative:ItemRec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD2FD08F-F9E1-44FC-9789-B36F5778D8BD}|Main Project 3.vcxproj|solutionrelative:ItemRec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemRec.cpp",
+              "DocumentMoniker": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.cpp",
+              "RelativeDocumentMoniker": "ItemRec.cpp",
+              "ToolTip": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.cpp",
+              "RelativeToolTip": "ItemRec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T23:18:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemRec.h",
+              "DocumentMoniker": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.h",
+              "RelativeDocumentMoniker": "ItemRec.h",
+              "ToolTip": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\ItemRec.h",
+              "RelativeToolTip": "ItemRec.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-22T23:17:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Corner Grocer App.cpp",
-              "DocumentMoniker": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp",
-              "RelativeDocumentMoniker": "Corner Grocer App.cpp",
-              "ToolTip": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Corner Grocer App.cpp",
-              "RelativeToolTip": "Corner Grocer App.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAUAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\jarod\\source\\repos\\Main Project 3\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-15T01:24:39.634Z",
               "EditorCaption": ""
