@@ -1,4 +1,4 @@
-"# The-Corner-Grocer-App" 
+"The-Corner-Grocer-App" 
 **Author:** Jarod Jecas  
 **Course:** CS-210 Programming Languages  
 **Date:** October 2025  
@@ -6,7 +6,7 @@
 ---
 
 ##  Overview
-The Corner Grocer Frequency Analyzer is a C++ program designed for ChadaTech to help a local grocery store analyze customer purchase data. It reads a text file containing a list of purchased items and determines how often each item appears. This data helps the store optimize product placement and restocking strategies.
+The Corner Grocer App is a C++ program designed for ChadaTech to help a local grocery store analyze customer purchase data. It reads a text file containing a list of purchased items and determines how often each item appears. This data helps the store optimize product placement and restocking strategies.
 
 The program demonstrates **object-oriented programming**, **file handling**, and **pointer usage** while following modern C++ standards and code guidelines.
 
