@@ -1,7 +1,7 @@
 "The-Corner-Grocer-App" 
 **Author:** Jarod Jecas  
 **Course:** CS-210 Programming Languages  
-**Date:** October 2025  
+**Date:** 10/22/2025 
 
 ---
 
